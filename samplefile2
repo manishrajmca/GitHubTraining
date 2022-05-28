@@ -1,3 +1,7 @@
 This is sample file2 
+<<<<<<< HEAD
 this is comparision lecture no 2
+=======
+This is testing in samplefile2 for reset versus revert
+>>>>>>> main
 
